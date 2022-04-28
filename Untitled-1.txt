@@ -1,0 +1,14 @@
+{
+    "students": [
+        {
+            "name": "Bruno",
+            "surname": "B",
+            "averageGrade": 8.3
+        },
+        {
+            "name": "Alex",
+            "surname": "H",
+            "averageGrade": 7.2
+        }
+    ]
+}
